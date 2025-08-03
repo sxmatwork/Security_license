@@ -1,1 +1,4 @@
-echo '{"status":"enabled","licenses":{}}' > license.json
+{
+  "licenses": {},
+  "status": "enabled"
+}
