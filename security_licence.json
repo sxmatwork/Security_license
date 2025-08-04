@@ -1,9 +1,4 @@
 {
-  "licenses": {
-    "7129119140": {
-      "key": "6Arou0u_aMvsiNk2",
-      "added_at": "2025-08-04T07:52:26.623830+00:00"
-    }
-  },
-  "status": "enabled"
+  "status": "enabled",
+  "licenses": {}
 }
